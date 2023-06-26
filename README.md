@@ -6,7 +6,7 @@ This project is a simple animation of a Pac-man character moving back and forth 
 ## How to Run
 To run this project on your machine, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/PatMcCue/pacman/tree/main`
 2. Open the `index.html` file in a web browser.
 3. Click on the Pac-man image to start the animation.
 
